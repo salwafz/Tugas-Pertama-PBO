@@ -49,4 +49,4 @@ Getter dan Setter adalah metode yang digunakan untuk mengakses dan mengubah nila
 
 ---
 
-** Sekian dari saya, semoga dapat membantu dalam memahami. TERIMAKASIH!!!🙌**
+Sekian dari saya, semoga dapat membantu dalam memahami. TERIMAKASIH!!!🙌
